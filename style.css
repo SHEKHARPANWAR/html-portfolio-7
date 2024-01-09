@@ -1,0 +1,81 @@
+.gradient-background {
+  background-color:rgb(174, 243, 243));
+  background-size: 100% ;
+  animation: gradient-animation 18s ease infinite;
+  height: 600px;
+    
+  }
+ .img{
+    border-radius: 50%;
+    border-image-width: 10px black;
+   
+
+    
+ }
+
+ .corousleimg
+    {
+        width: 500px;
+        height: 500px;
+        
+        display: block;
+       
+        margin-top: 40px;
+        margin-bottom: 40px;
+    
+        }
+    
+
+.JAGAH{
+    MARGIN:100PX;
+   text-align: center;
+   margin-top: 200px;
+   margin-bottom: 200px;
+}
+
+
+.video{   
+        
+        margin-top: 40px;
+        margin-bottom: 60px;
+        background-color:azure;
+        padding: 20px;
+}
+
+
+
+
+.CONTAINER-5{
+    background: linear-gradient(300deg, #3599bb, #ff4c68, #ef8172);
+    background-size: 100%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+.CONTAINER-6{
+    margin-bottom: 60px;
+    background-color: azure;
+    
+}
+
+#top-bar{
+ 
+  background-color:#3599bb;
+  text-emphasis-color: white;
+  text-align: right;
+   
+}
+  
+
+
+#top-bar1{
+  background-color:#3599bb;
+  text-align: right;
+  padding: 5px;
+ 
+   
+
+}
+  
+
+
+
